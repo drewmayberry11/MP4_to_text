@@ -1,6 +1,6 @@
 
 #!/usr/bin/env python3
-# script_name.py
+# mp4_to_text.py
 
 """
 Author: Drew Mayberry
